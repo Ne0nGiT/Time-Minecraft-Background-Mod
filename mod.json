@@ -1,0 +1,32 @@
+{
+    "geode": "v5.9.0",
+    "gd": {
+        "win": "2.208",
+        "android": "2.208",
+        "mac": "2.208"
+    },
+    "id": "yourname.time-theme",
+    "name": "Time Theme",
+    "version": "v1.0.0",
+    "developer": "YourName",
+    "description": "Doi background theo gio thuc, dong ho HH:MM:SS, custom icon pack va nut Discord.",
+
+    "tags": [
+        "customization",
+        "interface",
+        "enhancement"
+    ],
+
+    "resources": {
+        "files": [
+            "resources/backgrounds/*.png",
+            "resources/icons/*.png",
+            "resources/icons/*.plist"
+        ]
+    },
+
+    "links": {
+        "community": "https://discord.gg/your-invite-code",
+        "source": "https://github.com/yourname/time-theme-mod"
+    }
+}
